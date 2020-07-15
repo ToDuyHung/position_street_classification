@@ -7,5 +7,5 @@ Create new python project
 Paste file data.json and position_street_classification.py into venv folder
 # Step 3:
 Run the python file to see your result
-# Note: Don't paste my file result.json into venv folder. It's just used for reference.
+# Note: Don't paste my file result2.json into venv folder. It's just used for reference.
 Thank you for reading <3
